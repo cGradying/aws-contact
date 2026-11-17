@@ -2,11 +2,45 @@
   {
     "slug": "janvin",
     "fullName": "Janvin D. Salvador",
-    "role": "Senior Associate — Creatives Director",
+    "role": "Senior Associate \u2014 Creatives Director",
     "role2": "CREATIVES & DESIGN",
     "email": "janvindsalvador@iskolarngbayan.pup.edu.ph",
     "linkedinUrl": "https://www.linkedin.com/company/awssbg-pup-manila/",
     "assetsBaseUrl": "https://cgradying.github.io/aws-contact/janvin/assets/",
-    "signatureUrl": "https://cgradying.github.io/aws-contact/janvin/signature.html"
+    "signatureUrl": "https://cgradying.github.io/aws-contact/janvin/signature.html",
+    "updatedAt": "2026-11-17T12:51:03.171Z"
+  },
+  {
+    "slug": "hannah",
+    "fullName": "Hannah Nicole B. PARTIBLE",
+    "role": "Senior Associate Secretary (In-Campus Activity)",
+    "role2": "Secretariat Office",
+    "email": "hannahnicolebpartible@iskolarngbayan.pup.edu.ph",
+    "linkedinUrl": "https://www.linkedin.com/company/awssbg-pup-manila/",
+    "assetsBaseUrl": "https://cgradying.github.io/aws-contact/hannah/assets/",
+    "signatureUrl": "https://cgradying.github.io/aws-contact/hannah/signature.html",
+    "updatedAt": "2026-11-17T13:01:54.971Z"
+  },
+  {
+    "slug": "mia",
+    "fullName": "Gebenths Mia Rose C. Pereras",
+    "role": "Senior Associate Secretary (Off-Campus Activity)",
+    "role2": "Secretariat Office",
+    "email": "gebenthsmiarosecpereras@iskolarngbayan.pup.edu.ph",
+    "linkedinUrl": "https://www.linkedin.com/company/awssbg-pup-manila/",
+    "assetsBaseUrl": "https://cgradying.github.io/aws-contact/mia/assets/",
+    "signatureUrl": "https://cgradying.github.io/aws-contact/mia/signature.html",
+    "updatedAt": "2026-11-17T13:44:11.997Z"
+  },
+  {
+    "slug": "rhian",
+    "fullName": "Rhian Avril Joy B. LAGMAN",
+    "role": "Executive Secretary",
+    "role2": "Secretariat Office",
+    "email": "rhianavriljoyblagman@iskolarngbayan.pup.edu.ph",
+    "linkedinUrl": "https://www.linkedin.com/company/awssbg-pup-manila/",
+    "assetsBaseUrl": "https://cgradying.github.io/aws-contact/rhian/assets/",
+    "signatureUrl": "https://cgradying.github.io/aws-contact/rhian/signature.html",
+    "updatedAt": "2026-11-17T13:50:38.202Z"
   }
 ]

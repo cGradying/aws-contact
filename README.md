@@ -9,6 +9,9 @@ Live GitHub Pages hub: `https://cgradying.github.io/aws-contact/`
 | Officer | Copy Page (`Cmd+A` → `Cmd+C`) | Asset Base URL (for Pixel Banner Studio) |
 | --- | --- | --- |
 | **Janvin D. Salvador** (Senior Associate — Creatives Director) | [`janvin/signature.html`](https://cgradying.github.io/aws-contact/janvin/signature.html) | `https://cgradying.github.io/aws-contact/janvin/assets/` |
+| **Hannah Nicole B. PARTIBLE** (Senior Associate Secretary — In-Campus) | [`hannah/signature.html`](https://cgradying.github.io/aws-contact/hannah/signature.html) | `https://cgradying.github.io/aws-contact/hannah/assets/` |
+| **Gebenths Mia Rose C. Pereras** (Senior Associate Secretary — Off-Campus) | [`mia/signature.html`](https://cgradying.github.io/aws-contact/mia/signature.html) | `https://cgradying.github.io/aws-contact/mia/assets/` |
+| **Rhian Avril Joy B. LAGMAN** (Executive Secretary) | [`rhian/signature.html`](https://cgradying.github.io/aws-contact/rhian/signature.html) | `https://cgradying.github.io/aws-contact/rhian/assets/` |
 
 ## Adding More Officers
 
