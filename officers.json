@@ -2,13 +2,46 @@
   {
     "slug": "janvin",
     "fullName": "Janvin D. Salvador",
-    "role": "Senior Associate \u2014 Creatives Director",
-    "role2": "CREATIVES & DESIGN",
-    "email": "janvindsalvador@iskolarngbayan.pup.edu.ph",
+    "role": "Senior Associate Creatives Director",
+    "role2": "Creatives Office",
+    "email": "janvindsalvador@iskolarngbayan.pup.edu",
     "linkedinUrl": "https://www.linkedin.com/company/awssbg-pup-manila/",
     "assetsBaseUrl": "https://cgradying.github.io/aws-contact/janvin/assets/",
     "signatureUrl": "https://cgradying.github.io/aws-contact/janvin/signature.html",
-    "updatedAt": "2026-11-17T12:51:03.171Z"
+    "updatedAt": "2026-11-17T15:40:30.578Z"
+  },
+  {
+    "slug": "chi",
+    "fullName": "Richie Christian H. De_Guzman",
+    "role": "Associate Technology Director",
+    "role2": "Technology Office",
+    "email": "richiechristianhdeguzman@iskolarngbayan.pup.edu.ph",
+    "linkedinUrl": "https://www.linkedin.com/company/awssbg-pup-manila/",
+    "assetsBaseUrl": "https://cgradying.github.io/aws-contact/chi/assets/",
+    "signatureUrl": "https://cgradying.github.io/aws-contact/chi/signature.html",
+    "updatedAt": "2026-11-17T15:40:31.694Z"
+  },
+  {
+    "slug": "gab",
+    "fullName": "Jose Gabriel M. Cunanan",
+    "role": "Creatives Director",
+    "role2": "Creatives Office",
+    "email": "josegabrielmcunanan@iskolarngbayan.pup.edu.ph",
+    "linkedinUrl": "https://www.linkedin.com/company/awssbg-pup-manila/",
+    "assetsBaseUrl": "https://cgradying.github.io/aws-contact/gab/assets/",
+    "signatureUrl": "https://cgradying.github.io/aws-contact/gab/signature.html",
+    "updatedAt": "2026-11-17T15:40:32.849Z"
+  },
+  {
+    "slug": "hadji",
+    "fullName": "Fahad A. Hadji_Esmael",
+    "role": "Technology Director | Co Captain",
+    "role2": "Technology Office",
+    "email": "fahadahadjiesmael@iskolarngbayan.pup.edu.ph",
+    "linkedinUrl": "https://www.linkedin.com/company/awssbg-pup-manila/",
+    "assetsBaseUrl": "https://cgradying.github.io/aws-contact/hadji/assets/",
+    "signatureUrl": "https://cgradying.github.io/aws-contact/hadji/signature.html",
+    "updatedAt": "2026-11-17T15:40:33.937Z"
   },
   {
     "slug": "hannah",
@@ -19,7 +52,62 @@
     "linkedinUrl": "https://www.linkedin.com/company/awssbg-pup-manila/",
     "assetsBaseUrl": "https://cgradying.github.io/aws-contact/hannah/assets/",
     "signatureUrl": "https://cgradying.github.io/aws-contact/hannah/signature.html",
-    "updatedAt": "2026-11-17T14:31:33.575Z"
+    "updatedAt": "2026-11-17T15:40:35.058Z"
+  },
+  {
+    "slug": "kav",
+    "fullName": "Kavin Klien J. Quinto",
+    "role": "Executive Marketing Director",
+    "role2": "Marketing Office",
+    "email": "kavinklienjquinto@iskolarngbayan.pup.edu.ph",
+    "linkedinUrl": "https://www.linkedin.com/company/awssbg-pup-manila/",
+    "assetsBaseUrl": "https://cgradying.github.io/aws-contact/kav/assets/",
+    "signatureUrl": "https://cgradying.github.io/aws-contact/kav/signature.html",
+    "updatedAt": "2026-11-17T15:40:36.156Z"
+  },
+  {
+    "slug": "keziah",
+    "fullName": "Keziah Rocel C. Nalzaro",
+    "role": "External Relations Lead",
+    "role2": "Relations Office",
+    "email": "keziahrocelcnalzaro@iskolarngbayan.pup.edu.ph",
+    "linkedinUrl": "https://www.linkedin.com/company/awssbg-pup-manila/",
+    "assetsBaseUrl": "https://cgradying.github.io/aws-contact/keziah/assets/",
+    "signatureUrl": "https://cgradying.github.io/aws-contact/keziah/signature.html",
+    "updatedAt": "2026-11-17T15:40:37.256Z"
+  },
+  {
+    "slug": "lawrence-panes",
+    "fullName": "Lawrence L.  Panes",
+    "role": "Executive Director | Captain",
+    "role2": "Executive Office",
+    "email": "lawrencelpanes@iskolarngbayan.pup.edu.ph",
+    "linkedinUrl": "https://www.linkedin.com/company/awssbg-pup-manila/",
+    "assetsBaseUrl": "https://cgradying.github.io/aws-contact/lawrence-panes/assets/",
+    "signatureUrl": "https://cgradying.github.io/aws-contact/lawrence-panes/signature.html",
+    "updatedAt": "2026-11-17T15:40:38.306Z"
+  },
+  {
+    "slug": "lei",
+    "fullName": "Justin Lei Dulla",
+    "role": "Senior Marketing Associate Director",
+    "role2": "Marketing Office",
+    "email": "justinleidulla@iskolarngbayan.pup.edu.ph",
+    "linkedinUrl": "https://www.linkedin.com/company/awssbg-pup-manila/",
+    "assetsBaseUrl": "https://cgradying.github.io/aws-contact/lei/assets/",
+    "signatureUrl": "https://cgradying.github.io/aws-contact/lei/signature.html",
+    "updatedAt": "2026-11-17T15:40:39.588Z"
+  },
+  {
+    "slug": "matthew",
+    "fullName": "Lawrenz Matthew P. Garcia",
+    "role": "Associate Technology Director",
+    "role2": "Technology Office",
+    "email": "lawrenzmatthewpgarcia@iskolarngbayan.pup.edu.ph",
+    "linkedinUrl": "https://www.linkedin.com/company/awssbg-pup-manila/",
+    "assetsBaseUrl": "https://cgradying.github.io/aws-contact/matthew/assets/",
+    "signatureUrl": "https://cgradying.github.io/aws-contact/matthew/signature.html",
+    "updatedAt": "2026-11-17T15:40:41.708Z"
   },
   {
     "slug": "mia",
@@ -30,18 +118,18 @@
     "linkedinUrl": "https://www.linkedin.com/company/awssbg-pup-manila/",
     "assetsBaseUrl": "https://cgradying.github.io/aws-contact/mia/assets/",
     "signatureUrl": "https://cgradying.github.io/aws-contact/mia/signature.html",
-    "updatedAt": "2026-11-17T13:44:11.997Z"
+    "updatedAt": "2026-11-17T15:40:43.073Z"
   },
   {
     "slug": "pb",
-    "fullName": "Neriah Phoebe Moraleda Bobiles",
+    "fullName": "Neriah Phoebe M. Bobiles",
     "role": "Executive Relations Director",
     "role2": "Relations Office",
     "email": "neriahphoebembobiles@iskolarngbayan.pup.edu.ph",
     "linkedinUrl": "https://www.linkedin.com/company/awssbg-pup-manila/",
     "assetsBaseUrl": "https://cgradying.github.io/aws-contact/pb/assets/",
     "signatureUrl": "https://cgradying.github.io/aws-contact/pb/signature.html",
-    "updatedAt": "2026-11-17T14:31:32.583Z"
+    "updatedAt": "2026-11-17T15:40:44.450Z"
   },
   {
     "slug": "rhian",
@@ -52,7 +140,7 @@
     "linkedinUrl": "https://www.linkedin.com/company/awssbg-pup-manila/",
     "assetsBaseUrl": "https://cgradying.github.io/aws-contact/rhian/assets/",
     "signatureUrl": "https://cgradying.github.io/aws-contact/rhian/signature.html",
-    "updatedAt": "2026-11-17T13:50:38.202Z"
+    "updatedAt": "2026-11-17T15:40:45.762Z"
   },
   {
     "slug": "viv",
@@ -63,6 +151,6 @@
     "linkedinUrl": "https://www.linkedin.com/company/awssbg-pup-manila/",
     "assetsBaseUrl": "https://cgradying.github.io/aws-contact/viv/assets/",
     "signatureUrl": "https://cgradying.github.io/aws-contact/viv/signature.html",
-    "updatedAt": "2026-11-17T14:31:31.677Z"
+    "updatedAt": "2026-11-17T15:40:47.108Z"
   }
 ]

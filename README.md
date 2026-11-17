@@ -8,12 +8,20 @@ Live GitHub Pages hub: `https://cgradying.github.io/aws-contact/`
 
 | Officer | Copy Page (`Cmd+A` → `Cmd+C`) | Asset Base URL (for Pixel Banner Studio) |
 | --- | --- | --- |
-| **Janvin D. Salvador** (Senior Associate — Creatives Director) | [`janvin/signature.html`](https://cgradying.github.io/aws-contact/janvin/signature.html) | `https://cgradying.github.io/aws-contact/janvin/assets/` |
-| **Hannah Nicole B. PARTIBLE** (Senior Associate Secretary — In-Campus) | [`hannah/signature.html`](https://cgradying.github.io/aws-contact/hannah/signature.html) | `https://cgradying.github.io/aws-contact/hannah/assets/` |
-| **Gebenths Mia Rose C. Pereras** (Senior Associate Secretary — Off-Campus) | [`mia/signature.html`](https://cgradying.github.io/aws-contact/mia/signature.html) | `https://cgradying.github.io/aws-contact/mia/assets/` |
+| **Janvin D. Salvador** (Senior Associate Creatives Director) | [`janvin/signature.html`](https://cgradying.github.io/aws-contact/janvin/signature.html) | `https://cgradying.github.io/aws-contact/janvin/assets/` |
+| **Richie Christian H. De_Guzman** (Associate Technology Director) | [`chi/signature.html`](https://cgradying.github.io/aws-contact/chi/signature.html) | `https://cgradying.github.io/aws-contact/chi/assets/` |
+| **Jose Gabriel M. Cunanan** (Creatives Director) | [`gab/signature.html`](https://cgradying.github.io/aws-contact/gab/signature.html) | `https://cgradying.github.io/aws-contact/gab/assets/` |
+| **Fahad A. Hadji_Esmael** (Technology Director \| Co Captain) | [`hadji/signature.html`](https://cgradying.github.io/aws-contact/hadji/signature.html) | `https://cgradying.github.io/aws-contact/hadji/assets/` |
+| **Hannah Nicole B. PARTIBLE** (Senior Associate Secretary (In-Campus Activity)) | [`hannah/signature.html`](https://cgradying.github.io/aws-contact/hannah/signature.html) | `https://cgradying.github.io/aws-contact/hannah/assets/` |
+| **Kavin Klien J. Quinto** (Executive Marketing Director) | [`kav/signature.html`](https://cgradying.github.io/aws-contact/kav/signature.html) | `https://cgradying.github.io/aws-contact/kav/assets/` |
+| **Keziah Rocel C. Nalzaro** (External Relations Lead) | [`keziah/signature.html`](https://cgradying.github.io/aws-contact/keziah/signature.html) | `https://cgradying.github.io/aws-contact/keziah/assets/` |
+| **Lawrence L. Panes** (Executive Director \| Captain) | [`lawrence-panes/signature.html`](https://cgradying.github.io/aws-contact/lawrence-panes/signature.html) | `https://cgradying.github.io/aws-contact/lawrence-panes/assets/` |
+| **Justin Lei Dulla** (Senior Marketing Associate Director) | [`lei/signature.html`](https://cgradying.github.io/aws-contact/lei/signature.html) | `https://cgradying.github.io/aws-contact/lei/assets/` |
+| **Lawrenz Matthew P. Garcia** (Associate Technology Director) | [`matthew/signature.html`](https://cgradying.github.io/aws-contact/matthew/signature.html) | `https://cgradying.github.io/aws-contact/matthew/assets/` |
+| **Gebenths Mia Rose C. Pereras** (Senior Associate Secretary (Off-Campus Activity)) | [`mia/signature.html`](https://cgradying.github.io/aws-contact/mia/signature.html) | `https://cgradying.github.io/aws-contact/mia/assets/` |
+| **Neriah Phoebe M. Bobiles** (Executive Relations Director) | [`pb/signature.html`](https://cgradying.github.io/aws-contact/pb/signature.html) | `https://cgradying.github.io/aws-contact/pb/assets/` |
 | **Rhian Avril Joy B. LAGMAN** (Executive Secretary) | [`rhian/signature.html`](https://cgradying.github.io/aws-contact/rhian/signature.html) | `https://cgradying.github.io/aws-contact/rhian/assets/` |
 | **Viviene Tricia B. Rabano** (Senior Associate Relations Director) | [`viv/signature.html`](https://cgradying.github.io/aws-contact/viv/signature.html) | `https://cgradying.github.io/aws-contact/viv/assets/` |
-| **Neriah Phoebe Moraleda Bobiles** (Executive Relations Director) | [`pb/signature.html`](https://cgradying.github.io/aws-contact/pb/signature.html) | `https://cgradying.github.io/aws-contact/pb/assets/` |
 
 ## Adding More Officers
 
