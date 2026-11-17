@@ -12,6 +12,8 @@ Live GitHub Pages hub: `https://cgradying.github.io/aws-contact/`
 | **Hannah Nicole B. PARTIBLE** (Senior Associate Secretary — In-Campus) | [`hannah/signature.html`](https://cgradying.github.io/aws-contact/hannah/signature.html) | `https://cgradying.github.io/aws-contact/hannah/assets/` |
 | **Gebenths Mia Rose C. Pereras** (Senior Associate Secretary — Off-Campus) | [`mia/signature.html`](https://cgradying.github.io/aws-contact/mia/signature.html) | `https://cgradying.github.io/aws-contact/mia/assets/` |
 | **Rhian Avril Joy B. LAGMAN** (Executive Secretary) | [`rhian/signature.html`](https://cgradying.github.io/aws-contact/rhian/signature.html) | `https://cgradying.github.io/aws-contact/rhian/assets/` |
+| **Viviene Tricia B. Rabano** (Senior Associate Relations Director) | [`viv/signature.html`](https://cgradying.github.io/aws-contact/viv/signature.html) | `https://cgradying.github.io/aws-contact/viv/assets/` |
+| **Neriah Phoebe Moraleda Bobiles** (Executive Relations Director) | [`pb/signature.html`](https://cgradying.github.io/aws-contact/pb/signature.html) | `https://cgradying.github.io/aws-contact/pb/assets/` |
 
 ## Adding More Officers
 

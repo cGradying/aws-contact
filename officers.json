@@ -19,7 +19,7 @@
     "linkedinUrl": "https://www.linkedin.com/company/awssbg-pup-manila/",
     "assetsBaseUrl": "https://cgradying.github.io/aws-contact/hannah/assets/",
     "signatureUrl": "https://cgradying.github.io/aws-contact/hannah/signature.html",
-    "updatedAt": "2026-11-17T13:01:54.971Z"
+    "updatedAt": "2026-11-17T14:31:33.575Z"
   },
   {
     "slug": "mia",
@@ -33,6 +33,17 @@
     "updatedAt": "2026-11-17T13:44:11.997Z"
   },
   {
+    "slug": "pb",
+    "fullName": "Neriah Phoebe Moraleda Bobiles",
+    "role": "Executive Relations Director",
+    "role2": "Relations Office",
+    "email": "neriahphoebembobiles@iskolarngbayan.pup.edu.ph",
+    "linkedinUrl": "https://www.linkedin.com/company/awssbg-pup-manila/",
+    "assetsBaseUrl": "https://cgradying.github.io/aws-contact/pb/assets/",
+    "signatureUrl": "https://cgradying.github.io/aws-contact/pb/signature.html",
+    "updatedAt": "2026-11-17T14:31:32.583Z"
+  },
+  {
     "slug": "rhian",
     "fullName": "Rhian Avril Joy B. LAGMAN",
     "role": "Executive Secretary",
@@ -42,5 +53,16 @@
     "assetsBaseUrl": "https://cgradying.github.io/aws-contact/rhian/assets/",
     "signatureUrl": "https://cgradying.github.io/aws-contact/rhian/signature.html",
     "updatedAt": "2026-11-17T13:50:38.202Z"
+  },
+  {
+    "slug": "viv",
+    "fullName": "Viviene Tricia B. Rabano",
+    "role": "Senior Associate Relations Director",
+    "role2": "Relations Office",
+    "email": "vivienetriciabrabano@iskolarngbayan.pup.edu.ph",
+    "linkedinUrl": "https://www.linkedin.com/company/awssbg-pup-manila/",
+    "assetsBaseUrl": "https://cgradying.github.io/aws-contact/viv/assets/",
+    "signatureUrl": "https://cgradying.github.io/aws-contact/viv/signature.html",
+    "updatedAt": "2026-11-17T14:31:31.677Z"
   }
 ]
