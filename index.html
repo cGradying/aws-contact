@@ -33,26 +33,10 @@
     <header>
       <p class="eyebrow">AWS Student Builder Group — PUP Manila</p>
       <h1>Official Clickable &amp; Animated Gmail Signatures</h1>
-      <p class="lead">Dedicated HTTPS signature host (<code>cGradying/aws-contact</code>). Each officer lives in their own subfolder for easy Gmail installation.</p>
+      <p class="lead">Dedicated HTTPS signature host (<code>cGradying/aws-contact</code>). Each officer lives in their own subfolder loaded from <code>officers.json</code>.</p>
     </header>
 
-    <section class="card" id="officer-janvin">
-      <div class="card-head">
-        <div>
-          <h2>Janvin D. Salvador</h2>
-          <p class="meta">Senior Associate — Creatives Director · <code>/janvin/assets/</code></p>
-        </div>
-        <a class="btn alt" href="./janvin/signature.html" target="_blank">Open Clean Copy Page</a>
-      </div>
-
-      <div class="sig-box" id="preview-janvin"></div>
-
-      <div class="acts">
-        <button type="button" onclick="copySignature('janvin')">Copy Clickable Signature for Gmail</button>
-        <a class="btn alt" href="https://www.linkedin.com/company/awssbg-pup-manila/" target="_blank" rel="noopener noreferrer">Chapter LinkedIn</a>
-        <span class="status" id="status-janvin"></span>
-      </div>
-    </section>
+    <div id="officersHost"></div>
 
     <section class="card">
       <h2 style="margin-bottom:8px;">How to Install in Gmail</h2>
@@ -67,8 +51,14 @@
 
   <script>
     const HOSTED_ORIGIN = 'https://cgradying.github.io/aws-contact/';
+    const sigHtmlCache = {};
+
+    function esc(s) {
+      return String(s || '').replace(/[&<>"']/g, m => ({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;' }[m]));
+    }
+
     async function loadPreview(slug) {
-      const res = await fetch(`./${slug}/signature.html`);
+      const res = await fetch(`./${slug}/signature.html`, { cache: 'no-store' });
       const html = await res.text();
       const doc = new DOMParser().parseFromString(html, 'text/html');
       const table = doc.querySelector('table');
@@ -81,14 +71,13 @@
       const host = document.getElementById(`preview-${slug}`);
       host.innerHTML = '';
       host.appendChild(previewClone);
-      window.__sigHtml = window.__sigHtml || {};
-      window.__sigHtml[slug] = table.outerHTML;
+      sigHtmlCache[slug] = table.outerHTML;
     }
 
     async function copySignature(slug) {
       const status = document.getElementById(`status-${slug}`);
-      if (!window.__sigHtml || !window.__sigHtml[slug]) await loadPreview(slug);
-      const html = window.__sigHtml[slug];
+      if (!sigHtmlCache[slug]) await loadPreview(slug);
+      const html = sigHtmlCache[slug];
       try {
         if (typeof ClipboardItem !== 'undefined' && navigator.clipboard && navigator.clipboard.write) {
           await navigator.clipboard.write([new ClipboardItem({
@@ -103,7 +92,42 @@
       status.textContent = 'Opened signature.html — press Cmd+A then Cmd+C, then paste into Gmail.';
     }
 
-    loadPreview('janvin');
+    async function renderOfficers() {
+      const wrap = document.getElementById('officersHost');
+      let list = [];
+      try {
+        const r = await fetch('./officers.json', { cache: 'no-store' });
+        if (r.ok) list = await r.json();
+      } catch (e) {}
+      if (!Array.isArray(list) || !list.length) {
+        list = [{ slug: 'janvin', fullName: 'Janvin D. Salvador', role: 'Senior Associate — Creatives Director', linkedinUrl: 'https://www.linkedin.com/company/awssbg-pup-manila/' }];
+      }
+      wrap.innerHTML = '';
+      for (const o of list) {
+        const sec = document.createElement('section');
+        sec.className = 'card';
+        sec.id = `officer-${o.slug}`;
+        const li = esc(o.linkedinUrl || 'https://www.linkedin.com/company/awssbg-pup-manila/');
+        sec.innerHTML = `
+          <div class="card-head">
+            <div>
+              <h2>${esc(o.fullName || o.slug)}</h2>
+              <p class="meta">${esc(o.role || '')} · <code>/${esc(o.slug)}/assets/</code></p>
+            </div>
+            <a class="btn alt" href="./${esc(o.slug)}/signature.html" target="_blank">Open Clean Copy Page</a>
+          </div>
+          <div class="sig-box" id="preview-${esc(o.slug)}"></div>
+          <div class="acts">
+            <button type="button" onclick="copySignature('${esc(o.slug)}')">Copy Clickable Signature for Gmail</button>
+            <a class="btn alt" href="${li}" target="_blank" rel="noopener noreferrer">Chapter LinkedIn</a>
+            <span class="status" id="status-${esc(o.slug)}"></span>
+          </div>`;
+        wrap.appendChild(sec);
+        loadPreview(o.slug);
+      }
+    }
+
+    renderOfficers();
   </script>
 </body>
 </html>
