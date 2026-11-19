@@ -10,9 +10,11 @@ Live GitHub Pages hub: `https://cgradying.github.io/aws-contact/`
 | --- | --- | --- |
 | **Janvin D. Salvador** (Senior Associate Creatives Director) | [`janvin/signature.html`](https://cgradying.github.io/aws-contact/janvin/signature.html) | `https://cgradying.github.io/aws-contact/janvin/assets/` |
 | **Richie Christian H. De_Guzman** (Associate Technology Director) | [`chi/signature.html`](https://cgradying.github.io/aws-contact/chi/signature.html) | `https://cgradying.github.io/aws-contact/chi/assets/` |
+| **James Clark B. Lopez** (Internal Relations Lead) | [`clark/signature.html`](https://cgradying.github.io/aws-contact/clark/signature.html) | `https://cgradying.github.io/aws-contact/clark/assets/` |
 | **Jose Gabriel M. Cunanan** (Creatives Director) | [`gab/signature.html`](https://cgradying.github.io/aws-contact/gab/signature.html) | `https://cgradying.github.io/aws-contact/gab/assets/` |
 | **Fahad A. Hadji_Esmael** (Technology Director \| Co Captain) | [`hadji/signature.html`](https://cgradying.github.io/aws-contact/hadji/signature.html) | `https://cgradying.github.io/aws-contact/hadji/assets/` |
 | **Hannah Nicole B. PARTIBLE** (Senior Associate Secretary (In-Campus Activity)) | [`hannah/signature.html`](https://cgradying.github.io/aws-contact/hannah/signature.html) | `https://cgradying.github.io/aws-contact/hannah/assets/` |
+| **Jay Clifferson P. Arevalo** (Community Relations) | [`jay/signature.html`](https://cgradying.github.io/aws-contact/jay/signature.html) | `https://cgradying.github.io/aws-contact/jay/assets/` |
 | **Kavin Klien J. Quinto** (Executive Marketing Director) | [`kav/signature.html`](https://cgradying.github.io/aws-contact/kav/signature.html) | `https://cgradying.github.io/aws-contact/kav/assets/` |
 | **Keziah Rocel C. Nalzaro** (External Relations Lead) | [`keziah/signature.html`](https://cgradying.github.io/aws-contact/keziah/signature.html) | `https://cgradying.github.io/aws-contact/keziah/assets/` |
 | **Lawrence L. Panes** (Executive Director \| Captain) | [`lawrence-panes/signature.html`](https://cgradying.github.io/aws-contact/lawrence-panes/signature.html) | `https://cgradying.github.io/aws-contact/lawrence-panes/assets/` |
